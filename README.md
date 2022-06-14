@@ -1,1 +1,1 @@
-# FuctionGraph
+# FuctionGraph Functions
