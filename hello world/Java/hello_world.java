@@ -1,7 +1,5 @@
 package com.huawei.demo;
-
 import com.huawei.services.runtime.Context;
-
 
 public class hello_world {
     public static void main(String args[]) {}
